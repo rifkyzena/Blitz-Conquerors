@@ -5,7 +5,9 @@ gif preview
 
 # Blitz Conquerors
 
-A vertical shooter game in the sense of classics like Ikaruga. Soar high above the ruins of civilization with your trusty aircraft against onslaught of endless enemies! Rake the highest score before going down in a blaze of glory!
+Blitz Conquerors is a vertical shooter game in the sense of classics SHMUPS like Raiden and Ikaruga. Just like Plato's Cave, I made this game as a way to begin my first dive into Unity 2D fundamentals. Soar high above the ruins of civilization with your trusty aircraft against onslaught of endless enemies! Rake the highest score before going down in a blaze of glory! 
+
+Controls: WASD to move the aircraft, left click to shoot
 
 ## Things that I've learned throughout making this project:
 - thing 1
